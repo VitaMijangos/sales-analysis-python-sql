@@ -1,0 +1,21 @@
+id_venta,fecha,cliente,producto,categoria,precio_unitario,cantidad,ciudad,metodo_pago,total_venta
+1,2026-01-05,Clinica Dental Roma,Turbina NSK,Piezas de mano,8500,1,CDMX,Tarjeta,8500
+2,2026-01-08,Dental Center Puebla,Guantes de nitrilo,Consumibles,280,5,Puebla,Transferencia,1400
+3,2026-01-15,Consultorio Sonrisa,Rayos X Portatil,Equipo dental,42000,1,CDMX,Tarjeta,42000
+4,2026-02-03,Clinica Dental Roma,Sensor Inalambrico,Imagenologia,36000,1,CDMX,Transferencia,36000
+5,2026-02-09,Dental Plus,Mascarillas,Consumibles,150,10,Estado de Mexico,Efectivo,1500
+6,2026-02-18,Odontologia Integral,Scaler Neumatico,Equipo dental,4800,2,Queretaro,Tarjeta,9600
+7,2026-03-02,Dental Center Puebla,Turbina NSK,Piezas de mano,8500,2,Puebla,Transferencia,17000
+8,2026-03-10,Consultorio Sonrisa,Guantes de nitrilo,Consumibles,280,8,CDMX,Efectivo,2240
+9,2026-03-22,Dental Plus,Sensor Inalambrico,Imagenologia,36000,1,Estado de Mexico,Tarjeta,36000
+10,2026-04-01,Clinica Dental Roma,Scaler Neumatico,Equipo dental,4800,3,CDMX,Transferencia,14400
+11,2026-04-14,Odontologia Integral,Rayos X Portatil,Equipo dental,42000,1,Queretaro,Tarjeta,42000
+12,2026-04-26,Dental Center Puebla,Mascarillas,Consumibles,150,20,Puebla,Efectivo,3000
+13,2026-05-04,Consultorio Sonrisa,Turbina NSK,Piezas de mano,8500,1,CDMX,Tarjeta,8500
+14,2026-05-17,Dental Plus,Guantes de nitrilo,Consumibles,280,12,Estado de Mexico,Transferencia,3360
+15,2026-05-29,Clinica Dental Roma,Sensor Inalambrico,Imagenologia,36000,1,CDMX,Tarjeta,36000
+16,2026-06-06,Odontologia Integral,Mascarillas,Consumibles,150,15,Queretaro,Efectivo,2250
+17,2026-06-12,Dental Center Puebla,Rayos X Portatil,Equipo dental,42000,1,Puebla,Transferencia,42000
+18,2026-06-20,Consultorio Sonrisa,Scaler Neumatico,Equipo dental,4800,2,CDMX,Tarjeta,9600
+19,2026-06-25,Dental Plus,Turbina NSK,Piezas de mano,8500,1,Estado de Mexico,Efectivo,8500
+20,2026-06-30,Clinica Dental Roma,Guantes de nitrilo,Consumibles,280,10,CDMX,Transferencia,2800
