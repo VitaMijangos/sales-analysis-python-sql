@@ -153,7 +153,7 @@ ORDER BY ingresos DESC;
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL-DEL-REPOSITORIO
+git clone https://github.com/VitaMijangos/sales-analysis-python-sql.git
 ```
 
 ### 2. Entrar a la carpeta
@@ -189,7 +189,13 @@ pip install -r requirements.txt
 ```bash
 py main.py
 ```
+## Resultados principales
 
+- Se analizaron 20 registros de ventas.
+- Se identificaron los productos con mayores ingresos.
+- Se compararon ventas por ciudad, categoría y método de pago.
+- Se generaron reportes automáticos en CSV.
+- Se construyó una base de datos SQLite para ejecutar consultas SQL.
 ## Archivos generados
 
 El proyecto genera automáticamente:
